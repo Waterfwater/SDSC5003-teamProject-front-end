@@ -37,8 +37,9 @@ npm install
 # or
 yarn install
 
+---
 
-## Project setup
+## 4. Project setup
 ```
 npm install
 ```
