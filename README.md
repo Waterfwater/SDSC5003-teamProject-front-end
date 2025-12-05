@@ -7,7 +7,7 @@ It handles the user interface, data display, and communicates with the backend A
 ---
 
 ## 2. Project Structure
-
+```
 src/
 ├─ assets/ # Static resources (images, styles)
 ├─ components/ # Reusable components
@@ -18,7 +18,7 @@ src/
 └─ main.js # Entry file
 public/ # Public assets
 index.html # HTML entry
-
+```
 ---
 
 ## 3. Dependencies
