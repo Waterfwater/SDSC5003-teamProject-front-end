@@ -36,8 +36,9 @@ Install dependencies:
 npm install
 # or
 yarn install
-
+```
 ---
+
 
 ## 4. Project setup
 ```
